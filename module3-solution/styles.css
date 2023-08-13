@@ -1,0 +1,78 @@
+body{
+	background-color: rgba(236,97,55,1);
+}
+h1{
+	color:rgb(255,212,176);
+	font-family:;
+	
+}
+
+
+#header-nav{
+	background-color:black;
+	border-radius:0;
+	border:0;
+
+	
+} 
+
+
+
+
+
+.navbar-brand a:hover .navbar-brand a:focus{
+	text-decoration:none;
+}
+
+#nav-list a:hover{
+	background-color: rgba(160,109,79,0.9);
+	width:100%;
+}
+#nav-list{
+	text-align: center;
+    background-color: white;
+	
+}
+#main-content div{
+	color:white;
+
+
+
+}
+h2{
+	color:#6d342a;
+	font-family: Copperplate Papyrus;
+	font-weight: bold;
+
+}
+h3{
+	color: black;
+	font-size: 1.25em;
+
+}
+section{
+	background-color:gray ;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 5px;
+	padding-right:5px;
+	height:1000px;
+}
+
+   	.navbar-brand h1{
+	font-family: 'Lilita One', cursive;
+	margin-top:0;
+	margin-bottom: 0;
+	line-height: 0.75;
+    }
+    .navbar-brand a:hover, .navbar-brand a:focus{
+    	text-decoration: none;
+    } 
+
+
+	
+ .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+ 	border:1px solid red;
+ }
+
+
